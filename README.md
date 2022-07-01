@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Development, Coding and other things related to tecnology
 - 🌱 I’m currently learning HTML, CSS, Javascript, React.js and Node.js 
 
+### I love everything that is related to this beautiful world of programming
 
 <!---
 Mati-Pereira/Mati-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
