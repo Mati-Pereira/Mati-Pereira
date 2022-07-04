@@ -4,7 +4,7 @@
 
 ### I love everything that is related to this beautiful world of programming
 
-I hope you enjoy the projects that I made
+I hope you enjoy the projects that I made 😊
 
 <!---
 Mati-Pereira/Mati-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
