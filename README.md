@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mati-Pereira
 - 👀 I’m interested in Software Development, Coding and other things related to tecnology
-- 🌱 I’m currently learning React.js and Node.js 
+- 🌱 I’m currently learning React.js, Node.js and TypeScript
 
 ### I love everything that is related to this beautiful world of programming
 
