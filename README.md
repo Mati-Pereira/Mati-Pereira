@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Rodrigues Pereira</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React.js and Typescript**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **html, css, javascript and react**
 
