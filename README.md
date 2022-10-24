@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Knex.js**
 
-- 👨‍💻 My portfolio is available at [https://portnext.vercel.app/portugues](https://portnext.vercel.app/portugues)
+- 👨‍💻 My portfolio is available at [https://portifolio-new-4q6j.vercel.app/](https://portifolio-new-4q6j.vercel.app/)
 
 - 💬 Ask me about **react, styled components, css**
 
