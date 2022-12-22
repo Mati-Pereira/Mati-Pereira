@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mati-pereira" alt="mati-pereira" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Knex.js**
+- 🌱 I’m currently learning **Next.js 13, Graphql**
 
 - 👨‍💻 My portfolio is available at [https://portifolio-new-4q6j.vercel.app/](https://portifolio-new-4q6j.vercel.app/)
 
-- 💬 Ask me about **react, styled components, css**
+- 💬 Ask me about **react.js, next.js, css**
 
 - 📫 How to reach me **matheus-rodrigues37@live.com**
 
