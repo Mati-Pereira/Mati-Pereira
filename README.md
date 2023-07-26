@@ -1,5 +1,5 @@
 # Matheus Rodrigues Pereira
-### Olá, tudo bem? O meu nome é Matheus Rodrigues Pereira, tenho 25 anos de idade e licenciei-me em Engenharia Elétrica pela Universidade Vale do Rio Doce
+### Olá, tudo bem? O meu nome é Matheus Rodrigues Pereira, tenho 26 anos de idade e licenciei-me em Engenharia Elétrica pela Universidade Vale do Rio Doce
 
 ⤷ Programação sempre foi uma paixão minha, desde a faculdade, sempre pensei em ligar os meus conhecimentos às novas tecnologias, foi e é algo muito instintivo para mim. Dedico-me de coração e alma para realizar o meu sonho de ser um programador Web Full Stack.
 
